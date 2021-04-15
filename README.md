@@ -9,7 +9,7 @@
 
 Create Reducer: 
 
-`
+```
 let id = 0;
 function reducer(state, action) {
     if (action.type === 'bugAdded') {
@@ -23,4 +23,4 @@ function reducer(state, action) {
         ]
     }
 
-}`
+}```
